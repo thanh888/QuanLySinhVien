@@ -2,6 +2,7 @@ package extend;
 
 public class SinhVien {
 	int abc;
+	int lelelel;
 	private String id;
 	private String name;
 	private int n;
