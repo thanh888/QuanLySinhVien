@@ -1,6 +1,7 @@
 package extend;
 
 public class SinhVien {
+	int abc;
 	private String id;
 	private String name;
 	private int n;
